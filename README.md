@@ -3,15 +3,15 @@
 This project implements a neural network from scratch using Python and NumPy to classify diabetes data. It demonstrates how to build a simple feedforward neural network with manual implementations of forward and backward passes, various activation functions, dropout regularization, loss functions, and different optimization algorithms.
 ___
 #### Table of Contents
-<ul>Introduction</ul>
-<ul>Features</ul>
-<ul>Dataset</ul>
-<ul>Installation</ul>
-<ul>Usage</ul>
-<ul>Project Structure</ul>
-<ul>Experimental Results</ul>
-<ul>Conclusion</ul>
-<ul>License</ul>
+* <ul>Introduction</ul>
+* <ul>Features</ul>
+* <ul>Dataset</ul>
+* <ul>Installation</ul>
+* <ul>Usage</ul>
+* <ul>Project Structure</ul>
+* <ul>Experimental Results</ul>
+* <ul>Conclusion</ul>
+* <ul>License</ul>
 
 ___
 ## Introduction
