@@ -3,7 +3,7 @@
 This project implements a neural network from scratch using Python and NumPy to classify diabetes data. It demonstrates how to build a simple feedforward neural network with manual implementations of forward and backward passes, various activation functions, dropout regularization, loss functions, and different optimization algorithms.
 ___
 #### Table of Contents
-* <ul>Introduction</ul>
+* [Introduction]
 * <ul>Features</ul>
 * <ul>Dataset</ul>
 * <ul>Installation</ul>
@@ -69,8 +69,8 @@ pip install numpy pandas scikit-learn
 Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/diabetes-neural-network.git
-cd diabetes-neural-network
+git clone https://github.com/your-username/Scratch_NN_diabetes.git
+cd Custom-Neural_Network-for-Diabetes-Classification
 ```
 
 ___
@@ -79,7 +79,7 @@ ___
 Run the notebook or Python script to train and evaluate the neural network:
 
 ```
-python neural_network.py
+python Scratch_NN_diabetes.ipynb
 ```
 
 The program will:
