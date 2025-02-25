@@ -69,8 +69,8 @@ pip install numpy pandas scikit-learn
 Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/Scratch_NN_diabetes.git
-cd Custom-Neural_Network-for-Diabetes-Classification
+git clone https://github.com/your-username/Custom-Neural-Network-for-Diabetes-Classification.git
+cd Custom-Neural-Network-for-Diabetes-Classification
 ```
 
 ___
